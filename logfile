@@ -1,0 +1,26 @@
+2023-08-20 17:34:21.765 GMT [85598] LOG:  could not open configuration file "/var/lib/postgres/data/postgresql.conf": Permission denied
+2023-08-20 17:34:21.765 GMT [85598] FATAL:  configuration file "/var/lib/postgres/data/postgresql.conf" contains errors
+2023-08-21 10:29:54.610 EDT [22437] LOG:  starting PostgreSQL 15.3 on x86_64-pc-linux-gnu, compiled by gcc (GCC) 13.2.1 20230801, 64-bit
+2023-08-21 10:29:54.611 EDT [22437] LOG:  could not bind IPv6 address "::1": Address already in use
+2023-08-21 10:29:54.611 EDT [22437] HINT:  Is another postmaster already running on port 5432? If not, wait a few seconds and retry.
+2023-08-21 10:29:54.611 EDT [22437] LOG:  could not bind IPv4 address "127.0.0.1": Address already in use
+2023-08-21 10:29:54.611 EDT [22437] HINT:  Is another postmaster already running on port 5432? If not, wait a few seconds and retry.
+2023-08-21 10:29:54.611 EDT [22437] WARNING:  could not create listen socket for "localhost"
+2023-08-21 10:29:54.611 EDT [22437] FATAL:  could not create any TCP/IP sockets
+2023-08-21 10:29:54.612 EDT [22437] LOG:  database system is shut down
+2023-08-21 10:31:33.630 EDT [24792] LOG:  starting PostgreSQL 15.3 on x86_64-pc-linux-gnu, compiled by gcc (GCC) 13.2.1 20230801, 64-bit
+2023-08-21 10:31:33.630 EDT [24792] LOG:  could not bind IPv6 address "::1": Address already in use
+2023-08-21 10:31:33.630 EDT [24792] HINT:  Is another postmaster already running on port 5432? If not, wait a few seconds and retry.
+2023-08-21 10:31:33.630 EDT [24792] LOG:  could not bind IPv4 address "127.0.0.1": Address already in use
+2023-08-21 10:31:33.630 EDT [24792] HINT:  Is another postmaster already running on port 5432? If not, wait a few seconds and retry.
+2023-08-21 10:31:33.630 EDT [24792] WARNING:  could not create listen socket for "localhost"
+2023-08-21 10:31:33.630 EDT [24792] FATAL:  could not create any TCP/IP sockets
+2023-08-21 10:31:33.631 EDT [24792] LOG:  database system is shut down
+2023-08-21 10:31:49.294 EDT [25193] LOG:  starting PostgreSQL 15.3 on x86_64-pc-linux-gnu, compiled by gcc (GCC) 13.2.1 20230801, 64-bit
+2023-08-21 10:31:49.294 EDT [25193] LOG:  could not bind IPv6 address "::1": Address already in use
+2023-08-21 10:31:49.294 EDT [25193] HINT:  Is another postmaster already running on port 5432? If not, wait a few seconds and retry.
+2023-08-21 10:31:49.294 EDT [25193] LOG:  could not bind IPv4 address "127.0.0.1": Address already in use
+2023-08-21 10:31:49.294 EDT [25193] HINT:  Is another postmaster already running on port 5432? If not, wait a few seconds and retry.
+2023-08-21 10:31:49.294 EDT [25193] WARNING:  could not create listen socket for "localhost"
+2023-08-21 10:31:49.294 EDT [25193] FATAL:  could not create any TCP/IP sockets
+2023-08-21 10:31:49.295 EDT [25193] LOG:  database system is shut down
